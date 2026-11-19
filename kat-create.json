@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "name": "rpg-blerps",
+  "typeId": "console-csharp",
+  "devTools": true,
+  "style": null,
+  "starter": false
+}

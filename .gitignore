@@ -1,0 +1,12 @@
+# .NET build artifacts
+bin/
+obj/
+
+# Local development files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# macOS
+.DS_Store
